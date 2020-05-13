@@ -1,0 +1,10 @@
+body{
+	text-align: center;
+  }
+  img, a{
+	display: block;
+	margin: 0 auto;
+  }
+  .email{
+	margin-bottom: 30px;
+  }
